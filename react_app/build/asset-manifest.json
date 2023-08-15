@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bec3cc55.css",
+    "main.js": "/static/js/main.b14713af.js",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "index.html": "/index.html",
+    "main.bec3cc55.css.map": "/static/css/main.bec3cc55.css.map",
+    "main.b14713af.js.map": "/static/js/main.b14713af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec3cc55.css",
+    "static/js/main.b14713af.js"
+  ]
+}
